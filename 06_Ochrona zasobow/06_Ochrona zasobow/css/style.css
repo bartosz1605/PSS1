@@ -1,0 +1,21 @@
+.messages{
+	border-radius: 0.2em;
+	padding: 0.5em;
+	font-style: bold;
+}
+
+.error{
+	background-color: rgb(90, 227, 10);
+}
+
+.info{
+	background-color: rgb(14, 237, 237);
+}
+
+.bottom-margin{
+	margin-bottom: 1em;
+}
+
+.top-margin{
+	margin-top: 1em;
+}
